@@ -1,0 +1,289 @@
+{\rtf1\ansi\ansicpg936\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 #EXTM3U\
+#EXTINF:-1 tvg-id="AnhuiTV.cn@SD" tvg-name="\uc0\u23433 \u24509 \u21355 \u35270 " tvg-logo="https://i.imgur.com/gDn101f.png" group-title="\u21355 \u35270 ",\u23433 \u24509 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVTVGuide.cn@SD" tvg-name="CCTV\uc0\u30005 \u35270 \u25351 \u21335 " tvg-logo="https://i.imgur.com/U73Q4NW.png" group-title="\u22830 \u35270 ",CCTV\u30005 \u35270 \u25351 \u21335 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn@SD" tvg-name="\uc0\u27993 \u27743 \u21355 \u35270 " tvg-logo="https://i.imgur.com/NFFQNhq.png" group-title="\u21355 \u35270 ",\u27993 \u27743 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CETVEarlyEducation.cn@SD" tvg-name="\uc0\u26089 \u26399 \u25945 \u32946 " tvg-logo="https://i.imgur.com/Ey2MrAj.png" group-title="\u25945 \u32946 ",\u26089 \u26399 \u25945 \u32946 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="YunnanTV1.cn@SD" tvg-name="\uc0\u20113 \u21335 \u21355 \u35270 " tvg-logo="https://i.imgur.com/POV1PUV.png" group-title="\u21355 \u35270 ",\u20113 \u21335 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="GTV.cn@SD" tvg-name="\uc0\u28216 \u25103 \u31454 \u25216 " tvg-logo="https://i.imgur.com/iyQBBgw.png" group-title="\u28216 \u25103 ",\u28216 \u25103 \u31454 \u25216 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="YanbianTV1.cn@SD" tvg-name="\uc0\u24310 \u36793 \u21355 \u35270 " tvg-logo="https://i.imgur.com/gBUlAfX.png" group-title="\u21355 \u35270 ",\u24310 \u36793 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-name="\uc0\u35199 \u34255 \u21355 \u35270 " tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="\u21355 \u35270 ",\u35199 \u34255 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="xinkedongman" tvg-name="CCTV\uc0\u26032 \u31185 \u21160 \u28459 " group-title="\u23569 \u20799 ",CCTV\u26032 \u31185 \u21160 \u28459 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="XizangTVChinese.cn@SD" tvg-name="\uc0\u26032 \u30086 \u21355 \u35270 " tvg-logo="https://i.imgur.com/V0v3ST5.png" group-title="\u21355 \u35270 ",\u26032 \u30086 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="XiamenStarTVChina.cn@SD" tvg-name="\uc0\u21414 \u38376 \u21355 \u35270 " tvg-logo="https://i.imgur.com/vDwOXvz.png" group-title="\u21355 \u35270 ",\u21414 \u38376 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="MartialArtsWorld.cn@SD" tvg-name="\uc0\u27494 \u26415 \u19990 \u30028 " tvg-logo="https://i.imgur.com/Z7aSwv8.png" group-title="\u20307 \u32946 ",\u27494 \u26415 \u19990 \u30028 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVHealth.cn@SD" tvg-name="\uc0\u21355 \u29983 \u20581 \u24247 " tvg-logo="https://i.imgur.com/AzpRtCz.png" group-title="\u20581 \u24247 ",\u21355 \u29983 \u20581 \u24247 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="LiyuanTV.cn@SD" tvg-name="\uc0\u25991 \u29289 \u23453 \u24211 " tvg-logo="https://i.imgur.com/5mn4PJn.png" group-title="\u25991 \u21270 ",\u25991 \u29289 \u23453 \u24211 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="HainanSatelliteTV.cn@SD" tvg-name="\uc0\u26053 \u28216 \u21355 \u35270 " tvg-logo="https://i.imgur.com/j6kY8nh.png" group-title="\u26053 \u28216 ",\u26053 \u28216 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="TianyuanIGoChannel.cn@SD" tvg-name="\uc0\u22825 \u20803 \u22260 \u26827 " tvg-logo="https://i.imgur.com/zCBOnxL.png" group-title="\u20307 \u32946 ",\u22825 \u20803 \u22260 \u26827 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="TianjinTV.cn@SD" tvg-name="\uc0\u22825 \u27941 \u21355 \u35270 " tvg-logo="https://i.imgur.com/Bg24eaH.png" group-title="\u21355 \u35270 ",\u22825 \u27941 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVBilliards.cn@SD" tvg-name="CCTV\uc0\u22830 \u35270 \u21488 \u29699 " tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="\u20307 \u32946 ",CCTV\u22830 \u35270 \u21488 \u29699 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="SichuanTV1.cn@SD" tvg-name="\uc0\u22235 \u24029 \u21355 \u35270 " tvg-logo="https://i.imgur.com/Crapy6M.png" group-title="\u21355 \u35270 ",\u22235 \u24029 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD" tvg-name="CCTV\uc0\u22899 \u24615 \u26102 \u23578 " tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="\u26102 \u23578 ",CCTV\u22899 \u24615 \u26102 \u23578 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVWorldGeography.cn@SD" tvg-name="CCTV\uc0\u19990 \u30028 \u22320 \u29702 " tvg-logo="https://i.imgur.com/V2ncOXi.png" group-title="\u32426 \u23454 ",CCTV\u19990 \u30028 \u22320 \u29702 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="ShenzhenTV.cn@SD" tvg-name="\uc0\u28145 \u22323 \u21355 \u35270 " tvg-logo="https://i.imgur.com/AnZjWm4.png" group-title="\u21355 \u35270 ",\u28145 \u22323 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="ShandongTV.cn@SD" tvg-name="\uc0\u23665 \u19996 \u21355 \u35270 " tvg-logo="https://i.imgur.com/t3ICc4i.png" group-title="\u21355 \u35270 ",\u23665 \u19996 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="ShanxiTV.cn@SD" tvg-name="\uc0\u23665 \u35199 \u21355 \u35270 " tvg-logo="https://i.imgur.com/UfKJBWW.png" group-title="\u21355 \u35270 ",\u23665 \u35199 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="ShandongEducationTV.cn@SD" tvg-name="\uc0\u23665 \u19996 \u25945 \u32946 \u21488 " tvg-logo="https://i.imgur.com/yb10kF0.png" group-title="\u25945 \u32946 ",\u23665 \u19996 \u25945 \u32946 \u21488 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="QinghaiTV.cn@SD" tvg-name="\uc0\u38738 \u28023 \u21355 \u35270 " tvg-logo="https://i.imgur.com/Nyuxo8S.png" group-title="\u21355 \u35270 ",\u38738 \u28023 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="NingxiaSatelliteChannel.cn@SD" tvg-name="\uc0\u23425 \u22799 \u21355 \u35270 " tvg-logo="https://i.imgur.com/nUQE4Ib.png" group-title="\u21355 \u35270 ",\u23425 \u22799 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="NeiMonggolChineseTV.cn@SD" tvg-name="\uc0\u20869 \u33945 \u21476 \u21355 \u35270 " tvg-logo="https://i.imgur.com/R4DWvBa.png" group-title="\u21355 \u35270 ",\u20869 \u33945 \u21476 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="NBTV5.cn@SD" tvg-name="\uc0\u23425 \u27874 \u20116 \u22871 " tvg-logo="https://i.imgur.com/RStBo1O.png" group-title="\u22320 \u26041 ",\u23425 \u27874 \u20116 \u22871 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="NBTV4.cn@SD" tvg-name="\uc0\u23425 \u27874 \u22235 \u22871 " tvg-logo="https://i.imgur.com/BPy1jif.png" group-title="\u22320 \u26041 ",\u23425 \u27874 \u22235 \u22871 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="NBTV3.cn@SD" tvg-name="\uc0\u23425 \u27874 \u19977 \u22871 " tvg-logo="https://i.imgur.com/MKB2aaM.png" group-title="\u22320 \u26041 ",\u23425 \u27874 \u19977 \u22871 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="NBTV2.cn@SD" tvg-name="\uc0\u23425 \u27874 \u20108 \u22871 " tvg-logo="https://i.imgur.com/fpOlkDs.png" group-title="\u22320 \u26041 ",\u23425 \u27874 \u20108 \u22871 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="NBTV1.cn@SD" tvg-name="\uc0\u23425 \u27874 \u19968 \u22871 " tvg-logo="https://i.imgur.com/9P2iTld.png" group-title="\u22320 \u26041 ",\u23425 \u27874 \u19968 \u22871 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="LiaoningTV.cn@SD" tvg-name="\uc0\u36797 \u23425 \u21355 \u35270 " tvg-logo="https://i.imgur.com/XRfeNTd.png" group-title="\u21355 \u35270 ",\u36797 \u23425 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" tvg-name="CCTV\uc0\u22830 \u35270 \u25991 \u21270 \u31934 \u21697 " tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="\u25991 \u21270 ",CCTV\u22830 \u35270 \u25991 \u21270 \u31934 \u21697 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="JilinTVStation.cn@SD" tvg-name="\uc0\u21513 \u26519 \u21355 \u35270 " tvg-logo="https://i.imgur.com/CikxiyB.png" group-title="\u21355 \u35270 ",\u21513 \u26519 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="JiangxiTV.cn@SD" tvg-name="\uc0\u27743 \u35199 \u21355 \u35270 " tvg-logo="https://i.imgur.com/RrLthH3.png" group-title="\u21355 \u35270 ",\u27743 \u35199 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn@SD" tvg-name="\uc0\u27743 \u33487 \u21355 \u35270 " group-title="\u21355 \u35270 ",\u27743 \u33487 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-name="\uc0\u28246 \u21335 \u21355 \u35270 " tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png" group-title="\u21355 \u35270 ",\u28246 \u21335 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="HubeiSatelliteTV.cn@SD" tvg-name="\uc0\u28246 \u21271 \u21355 \u35270 " tvg-logo="https://i.imgur.com/CTRa9BJ.png" group-title="\u21355 \u35270 ",\u28246 \u21271 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="SuperChannel.cn@SD" tvg-name="\uc0\u29615 \u29699 \u22855 \u35266 " tvg-logo="https://i.imgur.com/oLgm0xI.png" group-title="\u32426 \u23454 ",\u29615 \u29699 \u22855 \u35266 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn@SD" tvg-name="CCTV\uc0\u24576 \u26087 \u21095 \u22330 " tvg-logo="https://i.imgur.com/TVs9PBc.png" group-title="\u24433 \u35270 ",CCTV\u24576 \u26087 \u21095 \u22330 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="HenanTVSatellite.cn@SD" tvg-name="\uc0\u27827 \u21335 \u21355 \u35270 " tvg-logo="https://i.imgur.com/IBW26kV.png" group-title="\u21355 \u35270 ",\u27827 \u21335 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD" tvg-name="\uc0\u40657 \u40857 \u27743 \u21355 \u35270 " tvg-logo="https://i.imgur.com/9fj1uba.png" group-title="\u21355 \u35270 ",\u40657 \u40857 \u27743 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="HebeiTV.cn@SD" tvg-name="\uc0\u27827 \u21271 \u21355 \u35270 " tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="\u21355 \u35270 ",\u27827 \u21271 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="GuizhouTV.cn@SD" tvg-name="\uc0\u36149 \u24030 \u21355 \u35270 " tvg-logo="https://i.imgur.com/nkcKCdr.png" group-title="\u21355 \u35270 ",\u36149 \u24030 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="GuangxiTV.cn@SD" tvg-name="\uc0\u24191 \u35199 \u21355 \u35270 " tvg-logo="https://i.imgur.com/dpre5Qs.png" group-title="\u21355 \u35270 ",\u24191 \u35199 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn@SD" tvg-name="\uc0\u24191 \u19996 \u21355 \u35270 " tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="\u21355 \u35270 ",\u24191 \u19996 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="GansuTV.cn@SD" tvg-name="\uc0\u29976 \u32899 \u21355 \u35270 " tvg-logo="https://i.imgur.com/dANSiug.png" group-title="\u21355 \u35270 ",\u29976 \u32899 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVStormMusic.cn@SD" tvg-name="CCTV\uc0\u39118 \u20113 \u38899 \u20048 " tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="\u38899 \u20048 ",CCTV\u39118 \u20113 \u38899 \u20048 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn@SD" tvg-name="CCTV\uc0\u39118 \u20113 \u21095 \u22330 " tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="\u24433 \u35270 ",CCTV\u39118 \u20113 \u21095 \u22330 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="dongnan" tvg-name="\uc0\u19996 \u21335 \u21355 \u35270 " group-title="\u21355 \u35270 ",\u19996 \u21335 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="DragonTV.cn@SD" tvg-name="\uc0\u19996 \u26041 \u21355 \u35270 " tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="\u21355 \u35270 ",\u19996 \u26041 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@SD" tvg-name="CCTV\uc0\u31532 \u19968 \u21095 \u22330 " tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="\u24433 \u35270 ",CCTV\u31532 \u19968 \u21095 \u22330 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVChinaTelevisionShoppingChannel.cn@SD" tvg-name="CCTV\uc0\u20013 \u35270 \u36141 \u29289 " tvg-logo="https://i.imgur.com/ToJBJg4.png" group-title="\u36141 \u29289 ",CCTV\u20013 \u35270 \u36141 \u29289 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="chongqing" tvg-name="\uc0\u37325 \u24198 \u21355 \u35270 " group-title="\u21355 \u35270 ",\u37325 \u24198 \u21355 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CETV3.cn@SD" tvg-name="CETV 3" tvg-logo="https://i.imgur.com/nkXzRJ6.png" group-title="\uc0\u25945 \u32946 ",CETV 3\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CETV2.cn@SD" tvg-name="CETV 2" tvg-logo="https://i.imgur.com/ZD8XPmw.png" group-title="\uc0\u25945 \u32946 ",CETV 2\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CETV1.cn@SD" tvg-name="CETV 1" tvg-logo="https://i.imgur.com/6sOHLq8.png" group-title="\uc0\u25945 \u32946 ",CETV 1\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CDTV2.cn@SD" tvg-name="\uc0\u25104 \u37117 \u32463 \u27982 \u36164 \u35759 \u26381 \u21153 " tvg-logo="https://i.imgur.com/VybrHW5.png" group-title="\u22320 \u26041 ",\u25104 \u37117 \u32463 \u27982 \u36164 \u35759 \u26381 \u21153 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CDTV1.cn@SD" tvg-name="\uc0\u25104 \u37117 \u26032 \u38395 \u32508 \u21512 " tvg-logo="https://i.imgur.com/B4RzrDk.png" group-title="\u22320 \u26041 ",\u25104 \u37117 \u26032 \u38395 \u32508 \u21512 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVEntertainment.cn@SD" tvg-name="CCTV\uc0\u23089 \u20048 " tvg-logo="https://i.imgur.com/GRbTW53.png" group-title="\u23089 \u20048 ",CCTV\u23089 \u20048 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="cctvqixiang" tvg-name="CCTV\uc0\u27668 \u35937 " group-title="\u36164 \u35759 ",CCTV\u27668 \u35937 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="cctvqimo" tvg-name="\uc0\u27773 \u25705 " group-title="\u27773 \u36710 ",\u27773 \u25705 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="JiangsuLiangMakeUp.cn@SD" tvg-name="\uc0\u38739 \u22918 " tvg-logo="https://i.imgur.com/LdBsMIV.png" group-title="\u26102 \u23578 ",\u38739 \u22918 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="cctvlaogushi" tvg-name="CCTV\uc0\u32769 \u25925 \u20107 " group-title="\u32426 \u23454 ",CCTV\u32769 \u25925 \u20107 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-name="CCTV 9" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="\uc0\u32426 \u24405 ",CCTV 9\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVGolfTennis.cn@SD" tvg-name="CCTV\uc0\u39640 \u23572 \u22827 \u32593 \u29699 " tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="\u20307 \u32946 ",CCTV\u39640 \u23572 \u22827 \u32593 \u29699 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn@SD" tvg-name="CCTV\uc0\u39118 \u20113 \u36275 \u29699 " tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="\u20307 \u32946 ",CCTV\u39118 \u20113 \u36275 \u29699 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-name="CCTV 4 Europe" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="\uc0\u22830 \u35270 \u22269 \u38469 ",CCTV 4 Europe\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV14.cn@SD" tvg-name="CCTV 14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="\uc0\u23569 \u20799 ",CCTV 14\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-name="CCTV 4 America" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="\uc0\u22830 \u35270 \u22269 \u38469 ",CCTV 4 America\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-name="CCTV 15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="\uc0\u38899 \u20048 ",CCTV 15\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV13.cn@SD" tvg-name="CCTV 13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="\uc0\u26032 \u38395 ",CCTV 13\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-name="CCTV 12" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="\uc0\u31038 \u20250 \u19982 \u27861 ",CCTV 12\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-name="CCTV 11" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="\uc0\u25103 \u26354 ",CCTV 11\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-name="CCTV 10" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="\uc0\u31185 \u25945 ",CCTV 10\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-name="CCTV 8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="\uc0\u24433 \u35270 ",CCTV 8\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-name="CCTV 7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="\uc0\u20891 \u20107 \u20892 \u19994 ",CCTV 7\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV6.cn@SD" tvg-name="CCTV 6" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="\uc0\u30005 \u24433 ",CCTV 6\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-name="CCTV 5+" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="\uc0\u20307 \u32946 ",CCTV 5+\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV5.cn@SD" tvg-name="CCTV 5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="\uc0\u20307 \u32946 ",CCTV 5\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-name="CCTV 3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="\uc0\u32508 \u33402 ",CCTV 3\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV2.cn@SD" tvg-name="CCTV 2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="\uc0\u36130 \u32463 ",CCTV 2\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-name="CCTV 1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="\uc0\u32508 \u21512 ",CCTV 1\
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BRTVWinterOlympicsDocumentaryChannel.cn@SD" tvg-name="BTV\uc0\u32426 \u23454 " tvg-logo="https://i.imgur.com/X1CQGpD.png" group-title="\u21271 \u20140 ",BTV\u32426 \u23454 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn@SD" tvg-name="BTV\uc0\u21345 \u37239 \u23569 \u20799 " tvg-logo="https://i.imgur.com/t8X4wPZ.png" group-title="\u23569 \u20799 ",BTV\u21345 \u37239 \u23569 \u20799 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BRTVNewsChannel.cn@SD" tvg-name="BTV\uc0\u26032 \u38395 " tvg-logo="https://i.imgur.com/QwORUF9.png" group-title="\u26032 \u38395 ",BTV\u26032 \u38395 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BRTVLifeChannel.cn@SD" tvg-name="BTV\uc0\u29983 \u27963 " tvg-logo="https://i.imgur.com/Bg05fxY.png" group-title="\u29983 \u27963 ",BTV\u29983 \u27963 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BRTVFinancialChannel.cn@SD" tvg-name="BTV\uc0\u36130 \u32463 " tvg-logo="https://i.imgur.com/Ry0JHYW.png" group-title="\u36130 \u32463 ",BTV\u36130 \u32463 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BRTVFilmTelevisionChannel.cn@SD" tvg-name="BTV\uc0\u24433 \u35270 " tvg-logo="https://i.imgur.com/S6XVVbH.png" group-title="\u24433 \u35270 ",BTV\u24433 \u35270 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BRTVScienceEducationChannel.cn@SD" tvg-name="BTV\uc0\u31185 \u25945 " tvg-logo="https://i.imgur.com/q0qvOUe.png" group-title="\u31185 \u25945 ",BTV\u31185 \u25945 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BRTVArtsChannel.cn@SD" tvg-name="BTV\uc0\u25991 \u33402 " tvg-logo="https://i.imgur.com/5nimp0q.png" group-title="\u25991 \u33402 ",BTV\u25991 \u33402 \
+https://tv.cctv.com\
+\
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@SD" tvg-name="\uc0\u21271 \u20140 \u21355 \u35270 " tvg-logo="https://i.imgur.com/vsktAez.png" group-title="\u21355 \u35270 ",\u21271 \u20140 \u21355 \u35270 \
+https://tv.cctv.com}
